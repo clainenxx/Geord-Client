@@ -15,13 +15,6 @@ Basically: less guessing during fights, less UI clutter, and fewer moments where
 
 ---
 
-# Why Geordd?
-
-## Lightweight
-Designed to stay simple, fast, and clean without bloated systems or unnecessary visuals.
-
----
-
 ## Fully Client-Side
 Nothing is modified server-side.
 
