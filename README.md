@@ -2,52 +2,60 @@
 
 A lightweight Fabric client-side mod for Minecraft **1.20.5 → 1.21.4** focused on combat clarity, PvP visibility, and quality-of-life improvements.
 
-Geordd is designed to improve how information is displayed during gameplay without modifying vanilla combat mechanics or automating actions. Basically: cleaner PvP, better feedback, less guessing, fewer moments of "why did that hit not register bro".
+Geordd is designed to improve how information is displayed during gameplay without modifying vanilla mechanics or automating player actions.
+
+Instead of adding unfair advantages, Geordd focuses on:
+- Cleaner combat feedback
+- Better visual indicators
+- Faster information reading during PvP
+- Smoother gameplay feel
+- Customizable client-side visuals and utilities
+
+Basically: less guessing during fights, less UI clutter, and fewer moments where Minecraft combat feels like two raccoons fighting inside a microwave.
 
 ---
 
-# Preview
+# Why Geordd?
 
-## Main Options Menu
-
-![Options Menu](https://i.ibb.co.com/xtw52TNm/2026-05-21-17-35-23.png)
-
----
-
-## Geord Client GUI
-
-![Geord Client GUI](https://i.ibb.co.com/XkvLpcSN/2026-05-21-17-35-27.png)
-
-All visual settings, combat modules, animation tuning, and sliders can be adjusted directly inside the **Geord Client GUI**.
-
-You can customize:
-- Crystal Optimizer
-- Smart Hitbox
-- Shield Status
-- Totem Pop Size
-- Zoom Speed
-- Zoom Smoothness
-- Hotbar Animation Speed
-- Right Hand Height
-- Left Hand Height
-- And more
+## Lightweight
+Designed to stay simple, fast, and clean without bloated systems or unnecessary visuals.
 
 ---
 
-## Keybind Settings
+## Fully Client-Side
+Nothing is modified server-side.
 
-![Keybind Settings](https://i.ibb.co.com/SD2VRK2h/2026-05-21-17-35-38.png)
+The mod only changes:
+- Rendering
+- HUD elements
+- Visual indicators
+- Client-side feedback
 
-Utility features can also be configured through Minecraft keybind settings.
+The server always remains fully authoritative over gameplay.
 
-Includes configurable binds for:
-- Zoom
-- Freelook
-- Night Vision
-- Elytra Swapper
-- Other Geordd utilities
+---
 
-Because reaching for menus mid-fight is how people accidentally throw pearls into walls and spiritually leave their bodies.
+## PvP Focused
+Built mainly for:
+- Crystal PvP
+- Sword PvP
+- General combat visibility
+- Faster reaction timing
+
+---
+
+## Highly Customizable
+Most features can be adjusted directly inside:
+- **Geord Client GUI**
+- **Minecraft Keybind Settings**
+
+Including:
+- Visual modules
+- Combat indicators
+- Zoom behavior
+- Animation tuning
+- Utility toggles
+- Keybinds
 
 ---
 
@@ -103,7 +111,7 @@ Displays a notification whenever a player uses a **Totem of Undying**.
 
 Features:
 - Adjustable notification size
-- Can be scaled larger or smaller in the GUI
+- Can be scaled larger or smaller inside the GUI
 
 Useful for:
 - Crystal PvP
@@ -162,8 +170,6 @@ This provides:
 - Cleaner visuals
 - Less screen clutter
 - A visual indicator for valid hit range timing
-
-So the crosshair only shows up when violence becomes mathematically possible. Minecraft philosophy evolving in real time.
 
 ---
 
@@ -268,6 +274,26 @@ Designed to stay lightweight while still giving full control over how the mod fe
 
 ---
 
+# Preview
+
+## Main Options Menu
+
+![Options Menu](https://i.ibb.co.com/xtw52TNm/2026-05-21-17-35-23.png)
+
+---
+
+## Geord Client GUI
+
+![Geord Client GUI](https://i.ibb.co.com/XkvLpcSN/2026-05-21-17-35-27.png)
+
+---
+
+## Keybind Settings
+
+![Keybind Settings](https://i.ibb.co.com/SD2VRK2h/2026-05-21-17-35-38.png)
+
+---
+
 # Transparency
 
 - All features are visual or informational only
@@ -281,7 +307,7 @@ Designed to stay lightweight while still giving full control over how the mod fe
 
 The server always remains fully authoritative over gameplay.
 
-Geordd improves clarity and feedback only. Your aim, panic, and questionable pearl decisions are still completely manual.
+Geordd improves clarity and feedback only. Your panic crystals and accidental hotbar swaps are still entirely handcrafted by the player.
 
 ---
 
