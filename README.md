@@ -1,5 +1,9 @@
 # Geordd
 
+[![Mods](https://img.shields.io/badge/Modrinth-brightgreen.svg)]([https://minecraft.net](https://modrinth.com/mod/geord-pvp/))
+[![Fabric](https://img.shields.io/badge/Loader-Fabric-blue.svg)](https://fabricmc.net)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://oracle.com/java)
+
 A lightweight Fabric client-side mod for Minecraft **1.20.5 → 1.21.4** focused on combat clarity, PvP visibility, and quality-of-life improvements.
 
 Geordd is designed to improve how information is displayed during gameplay without modifying vanilla mechanics or automating player actions.
