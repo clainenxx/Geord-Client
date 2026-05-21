@@ -135,10 +135,10 @@ The stats appear:
 - Directly below their nametag
 
 Includes:
-- ❤️ **Hit / Reach Counter**
-  - Displays combat hit-related information and reach tracking
+- ❤️ **Hit / Hearth Counter**
+  - Displays remaining blood of other players
 
-- 🪬 **Totem Pop Counter**
+- y⭐ **Totem Pop Counter**
   - Tracks how many totems a player has used during combat
 
 - 📶 **Ping Counter**
