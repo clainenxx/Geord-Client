@@ -142,7 +142,7 @@ Includes:
 - ❤️ **Hit / Hearth Counter**
   - Displays remaining blood of other players
 
-- y⭐ **Totem Pop Counter**
+- ⭐ **Totem Pop Counter**
   - Tracks how many totems a player has used during combat
 
 - 📶 **Ping Counter**
