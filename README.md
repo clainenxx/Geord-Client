@@ -10,13 +10,13 @@ Geordd is designed to improve how information is displayed during gameplay witho
 
 ## Main Options Menu
 
-![Options Menu](2026-05-21_17.35.23.png)
+![Options Menu](https://i.ibb.co.com/xtw52TNm/2026-05-21-17-35-23.png)
 
 ---
 
 ## Geord Client GUI
 
-![Geord Client GUI](2026-05-21_17.35.27.png)
+![Geord Client GUI](https://i.ibb.co.com/XkvLpcSN/2026-05-21-17-35-27.png)
 
 All visual settings, combat modules, animation tuning, and sliders can be adjusted directly inside the **Geord Client GUI**.
 
@@ -36,7 +36,7 @@ You can customize:
 
 ## Keybind Settings
 
-![Keybind Settings](2026-05-21_17.35.38.png)
+![Keybind Settings](https://i.ibb.co.com/SD2VRK2h/2026-05-21-17-35-38.png)
 
 Utility features can also be configured through Minecraft keybind settings.
 
