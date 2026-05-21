@@ -99,12 +99,8 @@ This gives clearer combat timing and better attack decision-making during PvP.
 
 ---
 
-## Totem Pop
-Displays a notification whenever a player uses a **Totem of Undying**.
-
-Features:
-- Adjustable notification size
-- Can be scaled larger or smaller inside the GUI
+## Totem Pop Counter
+Displays the number of every player totem when their totem explode.
 
 Useful for:
 - Crystal PvP
