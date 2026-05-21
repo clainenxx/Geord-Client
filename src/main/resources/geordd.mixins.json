@@ -1,0 +1,35 @@
+{
+    "required": true,
+    "package": "geordmod.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "CrystalOptimizerMixin",
+        "ItemStackMixin",
+        "DynamicCrosshairMixin",
+        "TotemPopMixin",
+        "NametagMixin",
+        "ZoomMixin",
+        "MouseMixin",
+        "CameraMixin",
+        "ArmorHudMixin",
+        "FastXpMixin",
+        "SmoothHotbarMixin",
+        "OptionsScreenMixin",
+        "HeldItemRendererMixin",
+        "InGameOverlayRendererMixin",
+        "TotemAnimationMixin",
+        "SmartHitboxMixin",
+        "ShieldStatusMixin",
+        "ShieldAttackMixin",
+        "ShieldEntityEventMixin",
+        "PlayerContextMixin",
+        "ShieldEntityModelMixin",
+        "ModelPartColorMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    },
+    "overwrites": {
+        "requireAnnotations": true
+    }
+}
